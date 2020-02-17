@@ -1,6 +1,3 @@
-/* jQuery Scripting */
-
-
 $(document).ready(function() {
     
     /* For the sticky navigation*/
